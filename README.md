@@ -6,6 +6,7 @@ The whole project is designed with the following framework.
 - Dynamic Model: JSBSim
 - RL library: OpenAI Stablebaselines3
 - Render: `.acmi` file (for tacview) or flightgear (simultaneously rendering while running)
+- Trajectory drawing: `draw trajectory.ipynb`
 
 This project only contains one type of aircraft, f16. If you want to add more kinds, please visit JSBSim official project and pick your favorate models.
 NOTE: The maximum number of aircrafts that flightgear can render is two, if you want to render more, we suggest you using `.acmi` file.
