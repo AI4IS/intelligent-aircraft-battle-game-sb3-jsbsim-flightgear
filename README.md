@@ -13,5 +13,5 @@ NOTE: The maximum number of aircrafts that flightgear can render is two, if you 
 ## Advanced
 If you want to reproduce our work, we recommend implementing the reinforcement learning algorithm in sb3 from scratch and using modular programming to facilitate parallel training and evaluation.
 
-
-Disclaimer: We love peace, and all of our offensive words such as air combat are limited to simulation games, so please do not misinterpret our work. We do not accept any accusation of militarization.
+## Disclaimer
+We love peace, and all of our offensive words such as air combat are limited to simulation games, so please do not misinterpret our work. We do not accept any accusation of militarization.
