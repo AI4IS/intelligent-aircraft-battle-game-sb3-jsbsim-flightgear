@@ -9,7 +9,8 @@ The whole project is designed with the following framework.
 - Trajectory drawing: `draw trajectory.ipynb`
 
 This project only contains one type of aircraft, f16. If you want to add more kinds, please visit JSBSim official project and pick your favorate models.
-NOTE: The maximum number of aircrafts that flightgear can render is two, if you want to render more, we suggest you using `.acmi` file.
+You can view our demo by visiting the video https://youtu.be/Yg9QV8Y7KQU?si=6RLCwNP5ZvLTvfOb
+NOTE: The maximum number of aircrafts that flightgear can render is two, if you want to render more, we suggest you using `.acmi` file. Our python version is 3.8.17.
 
 ## Advanced
 If you want to reproduce our work, we recommend implementing the reinforcement learning algorithm in sb3 from scratch and using modular programming to facilitate parallel training and evaluation.
