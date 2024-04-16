@@ -1,5 +1,5 @@
 # Intelligent-aircraft-battle-game-sb3-jsbsim-flightgear
-A simple template for intelligent air-to-air battle game using OpenAI stablebaselines3, jsbsim and flightgear. 
+A simple template for intelligent air-to-air battle game using OpenAI stablebaselines3, jsbsim and flightgear, wrappered by gym.
 
 ## For beginners
 The whole project is designed with the following framework.
