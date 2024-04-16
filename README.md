@@ -10,6 +10,7 @@ The whole project is designed with the following framework.
 
 This project only contains one type of aircraft, f16. If you want to add more kinds, please visit JSBSim official project and pick your favorate models.
 You can view our demo by visiting the video https://youtu.be/Yg9QV8Y7KQU?si=6RLCwNP5ZvLTvfOb
+
 NOTE: The maximum number of aircrafts that flightgear can render is two, if you want to render more, we suggest you using `.acmi` file. Our python version is 3.8.17.
 
 ## Advanced
