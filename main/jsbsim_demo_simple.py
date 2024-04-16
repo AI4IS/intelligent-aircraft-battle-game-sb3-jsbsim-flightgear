@@ -23,9 +23,9 @@ STATE_LIST = [
     'velocities/p-rad_sec',
     'velocities/q-rad_sec',
     'velocities/r-rad_sec',
-    'attitude/phi-rad',    # 与12相同
-    'attitude/theta-rad',  # 与13相同
-    'attitude/psi-rad',    # 与14相同
+    'attitude/phi-rad',   
+    'attitude/theta-rad',  
+    'attitude/psi-rad',    
     'attitude/roll-rad',
     'attitude/pitch-rad',
     'attitude/heading-true-rad',
