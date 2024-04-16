@@ -56,9 +56,10 @@ STATE_HIGH = np.array([
     np.inf,
 ])
 
-
+# You need to git clone jsbsim official project to your local environment and fill the path into SIM_PATH
+SIM_PATH = 'JSBSIM OFFICIAL PROJECT PATH'
 class JSBSimEnv(gym.Env):
-    def __init__(self, root='C:\\BVR\\BVR_ENV\\envs\\JSBSim\\data', render_mode='txt'):
+    def __init__(self, root=SIM_PATH, render_mode='txt'):
         super().__init__()
         self.dt = 1/60
         self.down_sample_step = 3
