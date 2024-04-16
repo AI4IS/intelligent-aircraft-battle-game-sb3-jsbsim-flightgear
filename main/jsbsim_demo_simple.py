@@ -3,9 +3,8 @@ import os
 import numpy as np
 import time
 
-# TODO: 收起落架
-
-SIM_PATH = 'C:\\BVR\\CloseAirCombat\\envs\\JSBSim\\data'
+# You need to git clone jsbsim official project to your local environment and fill the path into SIM_PATH
+SIM_PATH = 'PATH TO JSBSIM OFFICIAL PROJECT'
 MODEL = 'f16'
 COLOR = 'Red'
 DT = 1/720
