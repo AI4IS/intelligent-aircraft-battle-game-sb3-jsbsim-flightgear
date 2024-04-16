@@ -26,6 +26,7 @@ If you find this project is useful, pleased use the following citation.
 }
 ```
 You can also refer to and cite our published articles.
+```
 @cja{Wang2024cja,
   author = {Jiandong Zhang^1, Dinghan Wang^1, Qiming Yang^*},
   title = {Loyal Wingman Task Execution for Future Aerial Combat: A Hierarchical Prior-based Reinforcement Learning Approach},
@@ -34,6 +35,7 @@ You can also refer to and cite our published articles.
   journal = {Chinese Journal of Aeronautics},
   howpublished = {\url{https://doi.org/10.1016/j.cja.2024.03.009}},
 }
+```
 
 ## Disclaimer
 We love peace, and all of our offensive words such as air combat are limited to simulation games, so please do not misinterpret our work. We do not accept any accusation of militarization.
